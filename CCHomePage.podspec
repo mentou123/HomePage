@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
   s.source   = { :git => 'git@github.com:mentou123/HomePage.git', :tag => s.version }
   s.ios.deployment_target = '9.0'
-  s.source_files = 'ModuleHomePage/Headers/ModuleHomePage.h'
+  s.source_files = 'ModuleHomePage/ModuleHomePage.h'
 end
